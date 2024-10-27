@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report of unintended behavior or problems 
 title: ''
 labels: ''
 assignees: ''
